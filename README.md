@@ -1,6 +1,7 @@
 **NBA Shot Percentage Analysis using K-Means Clustering**
 ==
 Carolina Data Challenge 2018
+
 Marc Rovner | Joshua Jiang | Bill Hansen | Ted Henson
 
 
